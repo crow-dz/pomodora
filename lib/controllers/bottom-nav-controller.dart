@@ -26,7 +26,7 @@ List<Widget> screens() {
         inactiveColorPrimary: Colors.grey,
       ),
       PersistentBottomNavBarItem(
-        icon:const Icon(MaterialIcons.timer),
+        icon:const Icon(MaterialCommunityIcons.timer),
         title: ("Search"),
              iconSize: 25,
         activeColorPrimary: mainColor,
