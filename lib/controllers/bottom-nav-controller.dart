@@ -20,7 +20,7 @@ List<Widget> screens() {
     return [
       PersistentBottomNavBarItem(
         icon:const Icon(Ionicons.ios_stats_chart),
-        title: "Home",
+        title: ("Home"),
         iconSize: 20,
         activeColorPrimary: mainColor,
         inactiveColorPrimary: Colors.grey,
